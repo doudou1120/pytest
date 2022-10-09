@@ -1,0 +1,1 @@
+__all__=['demo2','demo3'] #对外暴露demo2，demo3，用import*的方式导入
